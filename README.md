@@ -1,5 +1,9 @@
 # T80 Robot car with Bluetooth control
 
+[![Build Status](https://travis-ci.com/kreier/T80.svg?branch=master)](https://travis-ci.com/kreier/T80)
+[![MIT license](https://img.shields.io/github/license/kreier/T80?color=brightgreen)](http://opensource.org/licenses/MIT)
+[![HitCount](http://hits.dwyl.io/kreier/T80.svg)](http://hits.dwyl.io/kreier/T80)
+
 This robot was build and programmed on March 6th, 2019. This is the finished sample:
 
 ![Robot](robotcar.jpg)
